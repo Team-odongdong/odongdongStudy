@@ -38,3 +38,9 @@
 
 ### 13. Visitor 패턴
 [Visitor](https://velog.io/@jhbaik1501/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-Visitor)
+
+### 14. Chain of Responsibility 패턴
+[Chain of Responsibility](https://velog.io/@tkddls23/9.-Chain-of-Responsibility)
+
+### 15. Facade 패턴
+[Facade Pattern](https://velog.io/@tkddls23/Facade-Pattern)
