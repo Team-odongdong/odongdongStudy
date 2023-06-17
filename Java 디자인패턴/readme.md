@@ -44,3 +44,9 @@
 
 ### 15. Facade 패턴
 [Facade Pattern](https://velog.io/@tkddls23/Facade-Pattern)
+
+### 16. Facade 패턴
+[Memento Pattern](https://velog.io/@tkddls23/Memento-Pattern)
+
+### 17. Facade 패턴
+[State Pattern](https://velog.io/@tkddls23/State-Pattern)
