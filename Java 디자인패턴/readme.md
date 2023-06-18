@@ -45,8 +45,14 @@
 ### 15. Facade 패턴
 [Facade Pattern](https://velog.io/@tkddls23/Facade-Pattern)
 
-### 16. Memento 패턴
+### 16. Mediator 패턴
+[Mediator Pattern](https://velog.io/@jhbaik1501/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-Mediator)
+
+### 17. Observer 패턴
+[Observer Pattern](https://velog.io/@jhbaik1501/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-Observer)
+
+### 18. Memento 패턴
 [Memento Pattern](https://velog.io/@tkddls23/Memento-Pattern)
 
-### 17. State 패턴
+### 19. State 패턴
 [State Pattern](https://velog.io/@tkddls23/State-Pattern)
