@@ -56,3 +56,9 @@
 
 ### 19. State 패턴
 [State Pattern](https://velog.io/@tkddls23/State-Pattern)
+
+### 20. FlyWeight 패턴
+[FlyWeight](https://velog.io/@jhbaik1501/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-FlyWeight)
+
+### 21. Proxy 패턴
+[Proxy](https://velog.io/@jhbaik1501/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-Proxy)
