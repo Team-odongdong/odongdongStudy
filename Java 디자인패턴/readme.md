@@ -62,3 +62,6 @@
 
 ### 21. Proxy 패턴
 [Proxy](https://velog.io/@jhbaik1501/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-Proxy)
+
+### 22. Command 패턴
+[Command](https://velog.io/@tkddls23/Command-Pattern)
