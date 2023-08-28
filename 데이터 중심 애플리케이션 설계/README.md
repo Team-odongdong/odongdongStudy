@@ -17,7 +17,7 @@
 [신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 애플리케이션]([https://velog.io/@jhbaik1501/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-1%EC%9E%A5-%EC%A0%95%EB%A6%AC](https://velog.io/@tkddls23/2.-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EC%A7%88%EC%9D%98-%EC%96%B8%EC%96%B4))
 
 ## 2장
-[데이터 모델과 질의 언어](https://velog.io/@jhbaik1501/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-1%EC%9E%A5-%EC%A0%95%EB%A6%AC)
+[데이터 모델과 질의 언어](https://velog.io/@tkddls23/2.-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EC%A7%88%EC%9D%98-%EC%96%B8%EC%96%B4)
 
 ## 3장
 [신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 애플리케이션](https://velog.io/@jhbaik1501/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-3%EC%9E%A5-%EC%A0%95%EB%A6%AC)
