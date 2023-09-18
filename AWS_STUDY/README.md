@@ -12,3 +12,7 @@
 - Amazon Kinesis Stream
 - Simple Queue Service
 - AWS CloudFormation
+
+## 문제
+### 1~20
+![image](https://github.com/Team-odongdong/odongdongStudy/assets/81180977/0a326a93-ee02-41f6-aa18-40131a4c3ce4)
