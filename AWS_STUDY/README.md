@@ -10,4 +10,5 @@
 - AWS Elastic Beanstalk
 - Amazon ECS
 - Amazon Kinesis Stream
-- Simple Queue Service 
+- Simple Queue Service
+- AWS CloudFormation
